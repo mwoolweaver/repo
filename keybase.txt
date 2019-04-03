@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/mwoolweaver
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://repo.woolweaver.site
+  * I am mwoolweaver (https://keybase.io/mwoolweaver) on keybase.
+  * I have a public key with fingerprint 16C9 5438 0CB2 3A8E EF41  5BF2 3B47 C942 9651 74AE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f2a3392d7eaf0bfd91f95315792f8c943bdc39e635adb85e8c2d8ea39a6c5a370a",
+      "fingerprint": "16c954380cb23a8eef415bf23b47c942965174ae",
+      "host": "keybase.io",
+      "key_id": "3b47c942965174ae",
+      "kid": "010147b6f7cbc9a47b1c3c310b0e60c12a4946070ebfad09005f27ae6b37324d49a80a",
+      "uid": "c78e99af38a943f67ff46df976ece219",
+      "username": "mwoolweaver"
+    },
+    "merkle_root": {
+      "ctime": 1554315844,
+      "hash_meta": "a0b1489581e9d1b9f1f882353c31bba5431140e03235821dd568ca9c7d0d504a",
+      "seqno": 5088995
+    },
+    "revoke": {
+      "sig_ids": [
+        "f610afe3860b340896dc649509b188138deed2940b7b2955bb166d1daa421d080f"
+      ]
+    },
+    "service": {
+      "hostname": "repo.woolweaver.site",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1554315845,
+  "expire_in": 157680000,
+  "prev": "8badb150922c7f2b23e4ab9bc2c8fe9bd3e2df27910e0a8d9991529e5c75658c",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMQDAnicbVNrbBRVGN1CLY+00CJVJCnooEmFpdw7z3sXQVIhpAIFDKIIzXLvzJ12
+bXdnnZluu9YSqRJohAJBKClgeRQrjxQ3WRGMmNryEG2giBIBQdoGMEAxiEZUDN5p
+ICTG+TMzN+ec73zn++7hjP6+wSkTpx/P3zDXbUn5pm1puW9R01/TqgRqGXEhUCWU
+sr4XKzOY4wZLQ4YQEAAUgSkSScKioTFiAmoaGJpYkaCiYdFEOpYlaugSZqqkEIMi
+hSFdNBAjEiaqrhBJA0TwC2YoUszsqB2KuFwWqjpWZAkBnYoSQYyZMlSoKUpU1rii
+iFUFajJhnFhiOR6Dm6PEYXkhi5/xn2Cfvf/BP/ANoKxR1dR0qmPCP6Eu6RIEFDAV
+6FAkMpZVoAFGTWIADIBiihphKpU0SZQNGRPU57u8T07XEMOYmBIivF9T1UxTVg0T
+ayrTmQixB3SYHSFhxtHhCssqq2Akxmyh2i+EmV1axoK2Zblevrob8lBQ4QFABcky
+75E4JcEwcwknE0ChjLCCIMMGpNiEJkKipHjuKSUeCcqAAYmfIREahqIinWBdM4Ch
+ANnz7LA3IpYQUABCGCvcgc1iVinzijuhYp6cIwQWCqYKATGZhFRAJRkgrBq6KmMF
+YAoRghIyGDNELAOqURErCqVQVQ1oECLzsgABUyiq9orZsZDeJ+6N6n4ENotaeQ9j
+yHNCrjecqG25lm6VcUSJ60adgJePG496lApGg/fFgjQUMfjCcAYnOyErwvPiyP9G
+p/gFVhkN2SwY8hCKpiLAH68Oi3FJRPlGQt6RKOqaKfJdYzKhmOqijkyGqSEx0eBz
+x5AHSpCBMYaKiJmia4qqIP1hlpLEfZJirskTjBC33GZCdduXi1J9KYN9aY/0826S
+b/CgzAf3C0/N9DX6xjbMimgLfF3PNq5ItPZeVd68+UX9cy/tG/Hkd4mdtbXRr+u3
+L6tJuunbUqJnM50L2ZW1Mw+cvxrozr72S+HRui317WPqck6aawo/mDC7tzz3WvHk
+yOV4Ipbd3TDAf/7a9BwreWxyVdZjZUd+tj6ecfr13tmVpXtqMi7tyBk97dOsM2Ln
+cmeJLys/dXjPP0unFhxft7YyuOPDWY+3ojkFL/c/PqA4eUXT7Xkf9VvzYl7XyNXX
+j6zNSZLOpivrX/ttTuGGxMZdrZ8Mr/bXDTvktrwFLw1afbHpx56R3acmTgm3xYao
+fz69Z21BOLdi2I1z+QUj7x69dyCyKeq0+JbHpy/qOPjZvL1nR6eePDfTnvVueEF1
++vj66011o+1NdPGrpys6tObL67n0emdiP3dz/7fPbR2UP2np6bLe+Wb6rRPjdk0u
+GbiiY/H+Ke01d28kEpcGovdyA3vjQ+duSLasCawsjGW2z9+Y8W04bei9wo3NOy8n
+Niu7a5tf2D9q28VVW3u6izpv/tArHyx6v2D87yPiz3Q27o5/3nGlR/6pqysLC6O2
+6GPT3M7OCQvW+Rtr1on2O0VVduz82bs7n7+QNSlV33vn0J1xXYVfPXUqe19aInXa
+K8sO/3Emr6Nh3L5ka/qKsfW3G3av9NcnI2MWti35fsijJVr7E7cO5/663b13IPS3
+2NyQsfDq7RmLA3NPnEANx/4Fkj4E0Q==
+=6TNz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mwoolweaver
+
+==================================================================
