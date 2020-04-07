@@ -2,4 +2,4 @@
 
 
 
-Add [https://repo.woolweaver.site/](https://cydia.saurik.com/api/share#?source=https://repo.woolweaver.site/) to Cydia ⌐■_■
+Add [https://mwoolweaver.github.io/repo/](https://cydia.saurik.com/api/share#?source=https://mwoolweaver.github.io/repo/) to Cydia ⌐■_■
